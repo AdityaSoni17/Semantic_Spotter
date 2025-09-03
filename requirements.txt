@@ -1,0 +1,12 @@
+pandas
+faiss-cpu
+python-dotenv
+llama-index==0.10.32
+llama-index-embeddings-langchain==0.1.2
+llama-index-program-openai==0.1.4
+llama-index-agent-openai==0.1.7
+llama-index-question-gen-openai==0.1.2
+llama-index-multi-modal-llms-openai==0.1.6
+llama-index-llms-openai==0.1.13
+openai
+langchain==0.1.14
